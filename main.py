@@ -27,7 +27,7 @@ bg.set_alpha(50)
 
 pygame.display.set_icon(icon)
 
-fps = 30
+fps = 60
 clock = pygame.time.Clock()
  
 width, height = 1280, 720
